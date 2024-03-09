@@ -1,0 +1,11 @@
+.navbar li  a{
+  color:black;
+  font-size: large;
+  text-decoration: none;
+}
+section{
+  height: 400px;
+}
+ul{
+  justify-content: space-between;
+}
